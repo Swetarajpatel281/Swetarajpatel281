@@ -1,271 +1,156 @@
-<h1 align="center">🚀 Sweta Raj Patel</h1>
-<h3 align="center">👩‍💻 Future-Ready Full Stack Developer | Tech Innovator | Lifelong Learner</h3>
+# <div align="center">✨ SWETA RAJ PATEL ✨</div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=swetarajpatel281&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="mailto:swetarajpatel2803@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue" alt="Email" /></a>
-  <a href="https://linkedin.com/in/sweta-raj-patel"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" /></a>
-</div>
-<img align ="right" width="500" alt ="coding" src ="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWg0MnFpeGwwMXd2dHJmb2ZhMGdvbTVtZDJscm1rYWptbjR0YmtpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-
-<p align="center">
-  📍 Indore, India &nbsp;|&nbsp;
-  📞 +91 89359 09023 &nbsp;|&nbsp;
-  📧 <a href="mailto:swetarajpatel2803@gmail.com">swetarajpatel2803@gmail.com</a>
-</p>
-
----
-
-## 👋 About Me
-
-Full-stack developer from India, passionate about turning ideas into interactive web solutions with the MERN stack. Currently advancing my skills in Node.js and Express.js while building reliable and scalable backend infrastructure.
-
-## 🧭 Vision
-
-Building intelligent, accessible, and transformative digital experiences for the next generation.
-Empowering people through inclusive and scalable software systems.
-
-## 🚀 Current Focus
-
-* Expanding backend knowledge with *Node.js and Express.js*
-* Building RESTful APIs and microservices
-* Enhancing frontend skills with *React.js*
-* Exploring UI/UX with *Tailwind CSS and Animation*
-
-## 💻 Skills
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-<div style="flex: 1; min-width: 250px;">
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
-
-</div>
-<div style="flex: 1; min-width: 250px;">
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat\&logo=mongodb\&logoColor=white)
-
-</div>
-<div style="flex: 1; min-width: 250px;">
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
-
-</div>
-<div style="flex: 1; min-width: 250px;">
-
-### Tools & Others
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
-
-</div>
+  <a href="https://github.com/swetarajpatel281"><img src="https://img.shields.io/github/followers/swetarajpatel281?label=Follow&style=social" alt="GitHub followers"></a>
+  <img src="https://komarev.com/ghpvc/?username=swetarajpatel281&style=flat-square&color=6C63FF" alt="Profile Views" />
+  <a href="mailto:swetarajpatel2803@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-6C63FF?style=flat-square&logo=gmail" alt="Email" /></a>
+  <a href="https://linkedin.com/in/sweta-raj-patel"><img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
 </div>
 
-## 🧠 Core Competencies
+<br>
 
-* 🔁 Object-Oriented & Functional Programming
-* 🧩 Data Structures & Algorithms
-* 🧠 Design Thinking & Problem Solving
-* 🌐 Full Stack Web Development (MERN)
-* 📲 Responsive UI & Modern Frontend Practices
+<table align="center">
+  <tr>
+    <td>
+      <h2>👩‍💻 Digital Innovator | Web Architect | Future-Tech Explorer</h2>
+      <p>Crafting elegant solutions to complex problems through code. I transform visions into reality by building scalable, user-centric digital experiences.</p>
+      <p>🔭 <b>Currently exploring:</b> Advanced Node.js architectures & Web3 technologies</p>
+      <p>🌱 <b>Learning:</b> Cloud-native development & AI integration</p>
+      <p>💬 <b>Ask me about:</b> MERN stack, responsive design, or UI/UX optimization</p>
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWg0MnFpeGwwMXd2dHJmb2ZhMGdvbTVtZDJscm1rYWptbjR0YmtpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding animation">
+    </td>
+  </tr>
+</table>
 
-## 🎓 Education
+## 🚀 My Vision
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-<div style="flex: 1; min-width: 300px; margin-bottom: 16px;">
-
-### 🎓 B.Tech – Computer Science & Engineering
-
-*Acropolis Institute of Technology & Research*, Indore
-Affiliated to RGPV, Bhopal (2022 – 2026)
-📊 Current CGPA: *7.17*
-
-* Relevant coursework: Data Structures, Algorithms, Database Systems, Web Development
-* Active member of Computer Society of India (CSI)
-
-</div>
-<div style="flex: 1; min-width: 300px; margin-bottom: 16px;">
-
-### 🏫 Class 12 – Science
-
-*Shri Guru Govind Singh College*, Patna (2021)
-📈 Percentage: *80%*
-
-### 🏫 Class 10
-
-*Pataliputra Vidyapeeth*, Patna (2019)
-📈 Percentage: *82%*
-
-</div>
-<div style="flex: 1; min-width: 300px; margin-bottom: 16px;">
-
-### 📜 Full Stack Web Development Bootcamp
-
-*Coding Ninjas* (2022)
-
-* Intensive program focused on MERN stack development
-* Developed several full-stack applications as course projects
-
-</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/⚡_Building_intelligent_digital_experiences-6C63FF?style=for-the-badge&labelColor=black" alt="Vision">
+  <img src="https://img.shields.io/badge/🌟_Creating_accessible_technology_for_all-6C63FF?style=for-the-badge&labelColor=black" alt="Mission">
+  <img src="https://img.shields.io/badge/🔮_Shaping_the_next_generation_of_web-6C63FF?style=for-the-badge&labelColor=black" alt="Goal">
 </div>
 
-## 🔭 Projects
+## 💻 Tech Arsenal
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-<div style="flex: 1; min-width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+<div align="center">
 
-### 🧿 Indian Sign Language to Text Converter
+### Frontend Mastery
+[![HTML5](https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark)](https://github.com/swetarajpatel281)
 
-*Role:* Full Stack Developer
-*Duration:* 4 months
+### Backend Capabilities  
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)](https://github.com/swetarajpatel281)
 
-A gesture-to-text system using computer vision, enhancing accessibility for speech-impaired users.
+### Languages
+[![Languages](https://skillicons.dev/icons?i=python,cpp&theme=dark)](https://github.com/swetarajpatel281)
 
-*Tech Stack:* React.js, Node.js, TensorFlow, OpenCV
-
-* Implemented machine learning models to recognize hand gestures
-* Created real-time processing pipeline for video input
-* Developed user-friendly interface for real-time feedback
-* Achieved 85% accuracy in gesture recognition
-
-[View Demo](https://example.com) | [GitHub Repo](https://github.com/username/project)
+### Dev Tools & Environment
+[![Tools](https://skillicons.dev/icons?i=git,vscode,figma&theme=dark)](https://github.com/swetarajpatel281)
 
 </div>
-<div style="flex: 1; min-width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
 
-### 📚 E-Learning Platform (MERN)
+## 🔥 Featured Projects
 
-*Role:* Full Stack Developer
-*Duration:* 4 months
-
-Built a modular learning platform where educators upload courses and learners interact through a rich interface.
-
-*Tech Stack:* React, MongoDB, Express.js, Node.js
-
-* Created drag-and-drop course builder for educators
-* Implemented user authentication and role-based access control
-* Added video streaming functionality with progress tracking
-* Built interactive quizzes and assignments system
-
-[View Demo](https://example.com) | [GitHub Repo](https://github.com/username/project)
-
-</div>
-</div>
-
-## 💼 Work Experience
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-<div style="flex: 1; min-width: 300px; margin-bottom: 16px;">
-
-### 👨‍💻 Frontend Developer Intern
-
-*TechSolutions Inc.* (May 2022 - August 2022)
-
-* Developed responsive UI components using React.js and Material UI
-* Optimized application performance by reducing load time by 40%
-* Collaborated with the design team to implement pixel-perfect designs
-* Participated in daily stand-ups and sprint planning meetings
-
-</div>
+<div class="project-grid">
+  <div class="project-card">
+    <!-- <img align="right" width="150" height="150" src="https://cdn4.iconfinder.com/data/icons/sign-language/170/sign_language-15-512.png" alt="Project Icon"> -->
+    <h3>🧿 Indian Sign Language to Text Converter</h3>
+    <p><i>Breaking communication barriers through technology</i></p>
+    <p>A real-time computer vision system that translates hand gestures into text, enhancing accessibility for speech-impaired users.</p>
+    <p>
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React.js">
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV">
+    </p>
+    <p>
+      <a href="https://github.com/Swetarajpatel281/Goonj">
+        <img src="https://img.shields.io/badge/Code-GitHub-6C63FF?style=flat-square&logo=github" alt="GitHub">
+      </a>
+      <a href="https://example.com">
+        <img src="https://img.shields.io/badge/Live-Demo-6C63FF?style=flat-square&logo=vercel" alt="Demo">
+      </a>
+    </p>
+    <ul>
+      <li>✅ 85% accuracy in gesture recognition</li>
+      <li>✅ Real-time processing with optimized performance</li>
+      <li>✅ User-friendly interface with instant feedback</li>
+    </ul>
+  </div>
 </div>
 
-## 🏆 Achievements
+## 💼 Professional Experience
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-<div style="flex: 1; min-width: 300px; margin-bottom: 16px;">
-
-* 🧩 Hackathon @ SKITM 2024 – Full Stack Developer
-* 🔧 HackTU 6.0 – Backend Contributor
-* 💡 Member, Computer Society of India (CSI)
-
-</div>
-</div>
-
-## 📜 Certifications
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-<div style="flex: 1; min-width: 300px; margin-bottom: 16px;">
-
-* 🧠 *NPTEL:* Data Structures & Algorithms with Java – 60%
-* 🐍 *Coursera:* Python Fundamentals
-* *MongoDB Developer Certification* - MongoDB University (2022)
-
-</div>
+<div style="background: linear-gradient(45deg, #21D4FD 0%, #B721FF 100%); border-radius: 10px; padding: 0.5px;">
+  <div style="background: #0D1117; margin: 2px; border-radius: 8px; padding: 15px;">
+    <h3>👨‍💻 Frontend Developer Intern</h3>
+    <p><b>TechSolutions Inc.</b> • May 2022 - August 2022</p>
+    <ul>
+      <li>Developed responsive UI components using React.js and Material UI</li>
+      <li>Optimized application performance by reducing load time by 40%</li>
+      <li>Collaborated with the design team to implement pixel-perfect designs</li>
+      <li>Participated in daily stand-ups and sprint planning meetings</li>
+    </ul>
+  </div>
 </div>
 
-## 💼 Professional Traits
+## 🏆 Achievements & Engagements
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-<div style="flex: 1; min-width: 300px; margin-bottom: 16px;">
-
-| Strengths                 | Growth Focus             |
-| ------------------------- | ------------------------ |
-| ✅ Time Management         | 📣 Public Speaking       |
-| ✅ Optimism & Adaptability | 🎙 Communication Skills |
-
-</div>
-</div>
-
-## 🎧 Hobbies
-
-* 🎵 Music that fuels focus
-* 📚 Reading tech & psychology
-* 🧳 Travelling for inspiration
-
-## 📫 Connect with Me
-
-<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px;">
-<a href="https://linkedin.com/in/sweta-raj-patel" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.hackerrank.com/swetarajpatel281" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a>
-<a href="https://www.leetcode.com/swetarajpatel281" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-<a href="https://twitter.com/yourhandle" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://github.com/swetarajpatel281" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img width="60" src="https://img.icons8.com/fluency/96/000000/prize.png" alt="Trophy"/>
+        <br>
+        <b>Hackathon @ SKITM 2024</b>
+        <br>Full Stack Developer
+      </td>
+      <td align="center">
+        <img width="60" src="https://img.icons8.com/color/96/000000/code.png" alt="Code"/>
+        <br>
+        <b>HackTU 6.0</b>
+        <br>Backend Contributor
+      </td>
+      <td align="center">
+        <img width="60" src="https://img.icons8.com/color/96/000000/conference-call.png" alt="Community"/>
+        <br>
+        <b>Computer Society of India</b>
+        <br>Active Member
+      </td>
+    </tr>
+  </table>
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
-  <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=swetarajpatel281&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-  <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=swetarajpatel281&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+<div align="center">
+  <a href="https://github.com/swetarajpatel281">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swetarajpatel281&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swetarajpatel281&layout=compact&langs_count=7&theme=tokyonight&border_radius=8" alt="Most Used Languages"/>
+  </a>
 </div>
 
-## 🔗 Portfolio and Blog
+## 📫 Connect With Me
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-<div style="flex: 1; min-width: 300px; margin-bottom: 16px;">
-
-### Personal Portfolio
-
-Check out my detailed portfolio with case studies and design processes:
-[portfolio.swetarajpatel.com](https://portfolio.example.com)
-
-### Tech Blog
-
-I write about web development, UI/UX, and career insights:
-[blog.swetarajpatel.com](https://medium.com/@swetarajpatel2803/why-big-tech-companies-are-moving-towards-microservices-for-cost-efficiency-706767057dbf)
-
+<div align="center">
+  <a href="mailto:swetarajpatel2803@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/sweta-raj-patel">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/swetarajpatel281">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.hackerrank.com/swetarajpatel281">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://www.leetcode.com/swetarajpatel281">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave Footer"/>
 </div>
