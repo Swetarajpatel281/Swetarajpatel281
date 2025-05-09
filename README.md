@@ -80,21 +80,6 @@
   </div>
 </div>
 
-## 💼 Professional Experience
-
-<div style="background: linear-gradient(45deg, #21D4FD 0%, #B721FF 100%); border-radius: 10px; padding: 0.5px;">
-  <div style="background: #0D1117; margin: 2px; border-radius: 8px; padding: 15px;">
-    <h3>👨‍💻 Frontend Developer Intern</h3>
-    <p><b>TechSolutions Inc.</b> • May 2022 - August 2022</p>
-    <ul>
-      <li>Developed responsive UI components using React.js and Material UI</li>
-      <li>Optimized application performance by reducing load time by 40%</li>
-      <li>Collaborated with the design team to implement pixel-perfect designs</li>
-      <li>Participated in daily stand-ups and sprint planning meetings</li>
-    </ul>
-  </div>
-</div>
-
 ## 🏆 Achievements & Engagements
 
 <div align="center">
