@@ -14,8 +14,8 @@
     <td>
       <h2>👩‍💻 Digital Innovator | Web Architect | Future-Tech Explorer</h2>
       <p>Crafting elegant solutions to complex problems through code. I transform visions into reality by building scalable, user-centric digital experiences.</p>
-      <p>🔭 <b>Currently exploring:</b> Advanced Node.js architectures & Web3 technologies</p>
-      <p>🌱 <b>Learning:</b> Cloud-native development & AI integration</p>
+      <p>🔭 <b>Currently exploring:</b> Advanced Node.js & Web3 technologies</p>
+      <p>🌱 <b>Learning:</b> Development & AI integration</p>
       <p>💬 <b>Ask me about:</b> MERN stack, responsive design, or UI/UX optimization</p>
     </td>
     <td width="50%">
